@@ -10,3 +10,8 @@ Answer: Data science can be applied to healthcare because by analyzing data, hea
 	including their probability, symptoms, causes, and potential outcomes.
 
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging takes the changes from the feature branch and applies them to the current branch while keeping the history of both branches. 
+	On the other hand, rebasing moves the changes from one branch to another branch while rewriting the history. 
+
